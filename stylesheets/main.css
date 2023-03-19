@@ -40,7 +40,7 @@ main {
 
 .art-museum {
   height: 410px;
-  width: 650px;
+  width: 750px;
 }
 
 .dam-header {
@@ -53,7 +53,22 @@ main {
   flex-direction: column;
 }
 
+.union-station {
+  height: 200px;
+}
+
+.mill-bridge {
+  height: 200px;
+  width: 360px;
+}
 
 
+.mb {
+  height: 150px;
+  width: 360px;
+}
 
-
+.footer {
+  background-color: black;
+  color: aliceblue;
+}
