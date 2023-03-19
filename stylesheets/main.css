@@ -1,0 +1,59 @@
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+body {
+  font-family:Arial, Helvetica, sans-serif;
+  margin: 0;
+  /* overflow:hidden; */
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: crimson;
+  color: aliceblue;
+  display:flex;
+  justify-content:space-between
+}
+
+.navigation-bar {
+  background-color: darkblue;
+  color: aliceblue;
+  display: flex;
+  justify-content:end;
+}
+
+.main-content {
+  display: flex;
+}
+
+#central-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.art-museum {
+  height: 410px;
+  width: 650px;
+}
+
+.dam-header {
+  font-style: oblique;
+  font-size: large;
+}
+
+.right {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+
